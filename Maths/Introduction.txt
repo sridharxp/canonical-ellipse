@@ -1,0 +1,19 @@
+Complex no is associated with two dimensions in complex plane.
+
+It can represent multi dimensional information.
+If so will n dimension compatible with n-1 dimension?
+Yes, there is way.
+
+Normally n dimension means n axes each orthogonal each other.
+In n-1 dimension each of n axes would be 120 degrees to each other.
+So three dimensional axes would become in a plane three axes each 120 degrees to others
+Four dimensional axes transforms to something like tripod
+Also importantly we can eliminate one axis  at a time and make the remaining axes orthogonal to each other.
+So three dimension becomes three axes in a plane and two constructed axes. But the two axes have the info of the third.
+x, y, z become x-y and x-y.
+
+1. CIRCLE becomes ELLIPSE
+This is rom very simple arithmetic using complex no
+2.Peternion like Quaternion
+
+New functions and curves; More importantly new ways of looking at them.
