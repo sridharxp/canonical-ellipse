@@ -1,0 +1,20 @@
+Pentarnion
+
+i, j, k, l hold 4 dimensional info
+
+Rules:
+i * i = j
+j * j = l
+k * k = i
+l * l = k
+
+i * k = l 
+i * l = 1
+j * k = 1
+j * l = i
+
+i * j = k
+k * l = j
+
+We can think of i, j,k,l having spin value of 1,2,3,4 respectively and 1 has spin value of 5
+The multiplication is commutative
